@@ -13,9 +13,15 @@
  */ 
 public class HelloWorldApp { 
     public static void main (String [] args) { 
+<<<<<<< HEAD
         System.out.println ( "Hello World This is TDTU"); // Hi?n th? "Hello Word" 
 ///hellooooooooooooooooo
 ///Ice
 ///creammmmmmmmmmmmm
+=======
+        System.out.println ( "Hello World I am 51600104"); // Hi?n th? "Hello Word" 
+///hellooooooooooooooooo
+///Ice
+>>>>>>> master
     } 
 }
