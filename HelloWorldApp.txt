@@ -1,0 +1,10 @@
+ * @author 51600104
+ */
+/** 
+  L?p HelloWorldApp don gi?n ch? hi?n th? ra "Hello World!"
+ */ 
+public class HelloWorldApp { 
+    public static void main (String [] args) { 
+        System.out.println ( "Hello World"); // Hi?n th? "Hello Word" 
+    } 
+}
